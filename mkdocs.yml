@@ -1,5 +1,5 @@
 # Project information
-site_name: REPO_NAME_OR_SITE_NAME
+site_name: Name Entity Recognization using Transformers
 # defeine TOC or order of website-
 nav:
   - Home: index.md
@@ -10,7 +10,7 @@ site_description: >-
 
 # Repository
 repo_name: shivanshka/REPO_NAME
-repo_url: https://github.com/shivanshka/REPO_NAME
+repo_url: https://github.com/shivanshka/REPO_NAME.git
 
 # Configuration
 theme:
