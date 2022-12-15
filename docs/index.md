@@ -1,5 +1,4 @@
-# dvc-project-template
-DVC project template
+# Name Entity Recognization using Transformers
 
 ## STEPS -
 
@@ -10,7 +9,7 @@ DVC project template
 ### STEP 03- Create a conda environment after opening the repository in VSCODE
 
 ```bash
-conda create --prefix ./env python=3.7 -y
+conda create --prefix ./env python=3.8 -y
 ```
 
 ```bash
