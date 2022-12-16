@@ -25,8 +25,8 @@ class DataIngestion:
 
     def get_data(self):
         en_data = load_dataset(self.dataset_name, self.subset, cache_dir = self.cache_dir)
-        logging.info("Dataset downloaded")
-
+        logging.info(f"Dataset downloaded at: {self.cache_dir}")
+     
 def main(config_path):
     ## read config files
     config = read_yaml(config_path)
